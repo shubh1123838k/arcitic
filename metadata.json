@@ -1,0 +1,6 @@
+{
+  "name": "ARCTIC®",
+  "description": "Independent AI-powered digital agency creating intelligent websites, custom AI solutions, and high-performance digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
